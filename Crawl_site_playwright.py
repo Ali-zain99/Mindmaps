@@ -2,8 +2,15 @@ import asyncio, json
 from urllib.parse import urlparse, urljoin
 from playwright.async_api import async_playwright
 
-START_URL = "https://teamupventures.com/"
+START_URL = "https://www.340bpriceguide.net/"
 MAX_PAGES = 50  # adjust as needed
+
+BASE_DOMAIN = urlparse(START_URL).netloc
+
+
+def normalize_url(base, link):
+    """Join relative links, remove fragments, normalize URL."""
+    return urljoin(base, link.split("#")[0].rstrip("/"))
 
 
 async def crawl():
@@ -19,24 +26,36 @@ async def crawl():
                 continue
             visited.add(url)
 
+            parsed = urlparse(url)
+            # skip non-http(s) links
+            if parsed.scheme not in ["http", "https"]:
+                print(f"[skip] {url} (not http/https)")
+                continue
+
+            # restrict to teamupventures.com only
+            if parsed.netloc != BASE_DOMAIN:
+                print(f"[skip] {url} (external domain)")
+                continue
+
             try:
                 await page.goto(url, timeout=30000)
                 title = await page.title()
 
-                # collect links (same domain only)
+                # collect links (internal only)
                 anchors = await page.eval_on_selector_all(
-                    "a[href]", "els => els.map(e => e.href)"
+                    "a[href]", "els => els.map(e => e.getAttribute('href'))"
                 )
-                parsed_start = urlparse(START_URL).netloc
                 links = sorted(
                     set(
-                        l.split("#")[0].rstrip("/")
+                        normalize_url(url, l)
                         for l in anchors
-                        if urlparse(l).netloc.endswith(parsed_start)
+                        if l
+                        and urlparse(normalize_url(url, l)).scheme in ["http", "https"]
+                        and urlparse(normalize_url(url, l)).netloc == BASE_DOMAIN
                     )
                 )
 
-                # collect forms
+                # collect forms (exclude hidden fields)
                 forms = []
                 form_elements = await page.query_selector_all("form")
                 for f in form_elements:
@@ -48,8 +67,10 @@ async def crawl():
                     }
                     inputs = await f.query_selector_all("input, textarea, select")
                     for inp in inputs:
-                        name = await inp.get_attribute("name")
                         itype = (await inp.get_attribute("type")) or "text"
+                        if itype.lower() == "hidden":
+                            continue
+                        name = await inp.get_attribute("name")
                         placeholder = await inp.get_attribute("placeholder")
                         form_info["inputs"].append(
                             {"name": name, "type": itype, "placeholder": placeholder}
@@ -71,7 +92,7 @@ async def crawl():
                     "forms": forms,
                 }
 
-                # queue children
+                # queue children (only internal)
                 for l in links:
                     if l not in visited and l not in [x[1] for x in to_visit]:
                         to_visit.append((url, l))
@@ -91,7 +112,11 @@ async def crawl():
 def site_map_to_plantuml(site_map, root_name="Website"):
     lines = ["@startmindmap", f"* {root_name}"]
 
-    def add_nodes(url, depth=2):
+    def add_nodes(url, depth=2, visited=set()):
+        if url in visited:
+            return
+        visited.add(url)
+
         node = site_map[url]
         prefix = "*" * depth
         title = node.get("title") or url
@@ -109,9 +134,8 @@ def site_map_to_plantuml(site_map, root_name="Website"):
         # children
         for child_url in node["links"]:
             if child_url in site_map and site_map[child_url]["parent"] == url:
-                add_nodes(child_url, depth + 1)
+                add_nodes(child_url, depth + 1, visited)
 
-    # find root nodes (no parent)
     for url, node in site_map.items():
         if node["parent"] is None:
             add_nodes(url, depth=2)

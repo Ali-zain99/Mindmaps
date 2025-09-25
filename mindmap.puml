@@ -1,59 +1,799 @@
 @startmindmap
 * Teamup Ventures
-** Home - Teamup Ventures (/)
-*** Form: post /#wpcf7-f203-p9-o1
-**** Field: _wpcf7 (hidden)
-**** Field: _wpcf7_version (hidden)
-**** Field: _wpcf7_locale (hidden)
-**** Field: _wpcf7_unit_tag (hidden)
-**** Field: _wpcf7_container_post (hidden)
-**** Field: _wpcf7_posted_data_hash (hidden)
-**** Field: your-name (text)
-**** Field: your-email (email)
-**** Field: company (text)
-**** Field: subject (text)
-**** Field: your-message (text)
-**** Field: recaptcha_v3 (hidden)
-**** Field: unnamed (submit)
-**** Field: unnamed (hidden)
-**** Button: GET IN TOUCH
-*** Home - Teamup Ventures (/)
-**** Form: post /#wpcf7-f203-p9-o1
-***** Field: _wpcf7 (hidden)
-***** Field: _wpcf7_version (hidden)
-***** Field: _wpcf7_locale (hidden)
-***** Field: _wpcf7_unit_tag (hidden)
-***** Field: _wpcf7_container_post (hidden)
-***** Field: _wpcf7_posted_data_hash (hidden)
-***** Field: your-name (text)
-***** Field: your-email (email)
+** Home - 340B Price Guide (/)
+*** Form: post /
+**** Field: searchword (text)
+**** Button: Go
+*** Form: post /
+**** Field: username (text)
+**** Field: password (password)
+**** Field: remember (checkbox)
+**** Field: Submit (submit)
+**** Field: Submit (submit)
+**** Button: Log in
+**** Button: Sign up / i’m New
+*** Form: GET 
+**** Field: searchword (text)
+**** Button: FIND 340B PRICES
+*** Articles and News - 340B Price Guide (/index.php/articles-news)
+**** Form: post /articles-news
+***** Field: searchword (text)
+***** Button: Go
+**** Form: post /articles-news
+***** Field: username (text)
+***** Field: password (password)
+***** Field: remember (checkbox)
+***** Field: Submit (submit)
+***** Field: Submit (submit)
+***** Button: Log in
+***** Button: Sign up / i’m New
+**** Articles and News - 340B Price Guide (/articles-news)
+***** Form: post /articles-news
+****** Field: searchword (text)
+****** Button: Go
+***** Form: post /articles-news
+****** Field: username (text)
+****** Field: password (password)
+****** Field: remember (checkbox)
+****** Field: Submit (submit)
+****** Field: Submit (submit)
+****** Button: Log in
+****** Button: Sign up / i’m New
+***** Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide (/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order)
+****** Home - 340B Price Guide (/)
+******* Form: post /
+******** Field: searchword (text)
+******** Button: Go
+******* Form: post /
+******** Field: username (text)
+******** Field: password (password)
+******** Field: remember (checkbox)
+******** Field: Submit (submit)
+******** Field: Submit (submit)
+******** Button: Log in
+******** Button: Sign up / i’m New
+******* Form: GET 
+******** Field: searchword (text)
+******** Button: FIND 340B PRICES
+******* Articles and News - 340B Price Guide (/index.php/articles-news)
+******** Form: post /articles-news
+********* Field: searchword (text)
+********* Button: Go
+******** Form: post /articles-news
+********* Field: username (text)
+********* Field: password (password)
+********* Field: remember (checkbox)
+********* Field: Submit (submit)
+********* Field: Submit (submit)
+********* Button: Log in
+********* Button: Sign up / i’m New
+******** Articles and News - 340B Price Guide (/articles-news)
+********* Form: post /articles-news
+********** Field: searchword (text)
+********** Button: Go
+********* Form: post /articles-news
+********** Field: username (text)
+********** Field: password (password)
+********** Field: remember (checkbox)
+********** Field: Submit (submit)
+********** Field: Submit (submit)
+********** Button: Log in
+********** Button: Sign up / i’m New
+********* Novo Nordisk will discontinue Levemir - 340B Price Guide (/articles-news/118-novo-nordisk-will-discontinue-levemir)
+********* What is 340B? - 340B Price Guide (/articles-news/50-what-is-340b)
+********* Medications to Treat Obesity: What is Available? - 340B Price Guide (/articles-news/70-medications-to-treat-obesity-what-is-available)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* Medications to Treat Obesity: What is Available? - 340B Price Guide (/articles-news/70-medications-to-treat-obesity-what-is-available)
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+******** Articles and News - 340B Price Guide (/articles-news)
+********* Form: post /articles-news
+********** Field: searchword (text)
+********** Button: Go
+********* Form: post /articles-news
+********** Field: username (text)
+********** Field: password (password)
+********** Field: remember (checkbox)
+********** Field: Submit (submit)
+********** Field: Submit (submit)
+********** Button: Log in
+********** Button: Sign up / i’m New
+********* 340B Registration Periods - 340B Price Guide (/articles-news/13-340b-registration-period)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* 340B Registration Periods - 340B Price Guide (/articles-news/13-340b-registration-period)
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+******** Articles and News - 340B Price Guide (/articles-news)
+********* Form: post /articles-news
+********** Field: searchword (text)
+********** Button: Go
+********* Form: post /articles-news
+********** Field: username (text)
+********** Field: password (password)
+********** Field: remember (checkbox)
+********** Field: Submit (submit)
+********** Field: Submit (submit)
+********** Button: Log in
+********** Button: Sign up / i’m New
+********* Mobile App - How to Use - 340B Price Guide (/articles-news/132-mobile-app-how-to-use)
+********* Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide (/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order)
+********* Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide (/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza)
+********* Continued Brand Name Victoza Shortages - 340B Price Guide (/articles-news/138-continued-brand-name-victoza-shortages)
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+******** Articles and News - 340B Price Guide (/articles-news)
+********* Form: post /articles-news
+********** Field: searchword (text)
+********** Button: Go
+********* Form: post /articles-news
+********** Field: username (text)
+********** Field: password (password)
+********** Field: remember (checkbox)
+********** Field: Submit (submit)
+********** Field: Submit (submit)
+********** Button: Log in
+********** Button: Sign up / i’m New
+********* Eli Lilly Forced To Remove Restrictions - 340B Price Guide (/articles-news/119-eli-lilly-forced-to-remove-restrictions)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********** Eli Lilly Forced To Remove Restrictions - 340B Price Guide (/articles-news/119-eli-lilly-forced-to-remove-restrictions)
+********** 340B Price Guide (/component/mailto/)
+*********** Form: post /component/mailto/?task=send
+************ Field: emailto (email)
+************ Field: sender (text)
+************ Field: emailfrom (email)
+************ Field: subject (text)
+************ Field: g-recaptcha-response (text)
+************ Button: Send
+************ Button: Cancel
+********* Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide (/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********** Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide (/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies)
+********** 340B Price Guide (/component/mailto/)
+*********** Form: post /component/mailto/?task=send
+************ Field: emailto (email)
+************ Field: sender (text)
+************ Field: emailfrom (email)
+************ Field: subject (text)
+************ Field: g-recaptcha-response (text)
+************ Button: Send
+************ Button: Cancel
+********* GSK to Discontinue Branded Flovent - 340B Price Guide (/articles-news/121-gsk-to-discontinue-branded-flovent)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********** GSK to Discontinue Branded Flovent - 340B Price Guide (/articles-news/121-gsk-to-discontinue-branded-flovent)
+********** 340B Price Guide (/component/mailto/)
+*********** Form: post /component/mailto/?task=send
+************ Field: emailto (email)
+************ Field: sender (text)
+************ Field: emailfrom (email)
+************ Field: subject (text)
+************ Field: g-recaptcha-response (text)
+************ Button: Send
+************ Button: Cancel
+********* Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide (/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********** Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide (/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law)
+********** 340B Price Guide (/component/mailto/)
+*********** Form: post /component/mailto/?task=send
+************ Field: emailto (email)
+************ Field: sender (text)
+************ Field: emailfrom (email)
+************ Field: subject (text)
+************ Field: g-recaptcha-response (text)
+************ Button: Send
+************ Button: Cancel
+********* Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide (/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide (/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source)
+********* Ongoing Shortages of Diabetes Medication - 340B Price Guide (/articles-news/127-ongoing-shortages-of-diabetes-medication)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* Ongoing Shortages of Diabetes Medication - 340B Price Guide (/articles-news/127-ongoing-shortages-of-diabetes-medication)
+********* Getting Started - 340B Price Guide - 340B Price Guide (/articles-news/128-getting-started-340b-price-guide)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* Getting Started - 340B Price Guide - 340B Price Guide (/articles-news/128-getting-started-340b-price-guide)
+********* 2024 340B Oversight Hearing - 340B Price Guide (/articles-news/130-340b-oversight-hearing)
+********** Form: post /articles-news
+*********** Field: searchword (text)
+*********** Button: Go
+********** Form: post /articles-news
+*********** Field: username (text)
+*********** Field: password (password)
+*********** Field: remember (checkbox)
+*********** Field: Submit (submit)
+*********** Field: Submit (submit)
+*********** Button: Log in
+*********** Button: Sign up / i’m New
+********* 2024 340B Oversight Hearing - 340B Price Guide (/articles-news/130-340b-oversight-hearing)
+********** http://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a (/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a)
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+********* 340B Price Guide (/component/mailto/)
+********** Form: post /component/mailto/?task=send
+*********** Field: emailto (email)
+*********** Field: sender (text)
+*********** Field: emailfrom (email)
+*********** Field: subject (text)
+*********** Field: g-recaptcha-response (text)
+*********** Button: Send
+*********** Button: Cancel
+******** 340B Price Guide (/component/mailto/)
+********* Form: post /component/mailto/?task=send
+********** Field: emailto (email)
+********** Field: sender (text)
+********** Field: emailfrom (email)
+********** Field: subject (text)
+********** Field: g-recaptcha-response (text)
+********** Button: Send
+********** Button: Cancel
+******** 340B Price Guide (/component/mailto/)
+********* Form: post /component/mailto/?task=send
+********** Field: emailto (email)
+********** Field: sender (text)
+********** Field: emailfrom (email)
+********** Field: subject (text)
+********** Field: g-recaptcha-response (text)
+********** Button: Send
+********** Button: Cancel
+******** 340B Price Guide (/component/mailto/)
+********* Form: post /component/mailto/?task=send
+********** Field: emailto (email)
+********** Field: sender (text)
+********** Field: emailfrom (email)
+********** Field: subject (text)
+********** Field: g-recaptcha-response (text)
+********** Button: Send
+********** Button: Cancel
+******** 340B Price Guide (/component/mailto/)
+********* Form: post /component/mailto/?task=send
+********** Field: emailto (email)
+********** Field: sender (text)
+********** Field: emailfrom (email)
+********** Field: subject (text)
+********** Field: g-recaptcha-response (text)
+********** Button: Send
+********** Button: Cancel
+******* Contact Us - 340B Price Guide (/index.php/contact-us)
+******** Form: post /contact-us
+********* Field: searchword (text)
+********* Button: Go
+******** Form: post /contact-us
+********* Field: username (text)
+********* Field: password (password)
+********* Field: remember (checkbox)
+********* Field: Submit (submit)
+********* Field: Submit (submit)
+********* Button: Log in
+********* Button: Sign up / i’m New
+******** Form: post 
+********* Field: name (text)
+********* Field: email (text)
+********* Field: company (text)
+********* Field: address (text)
+********* Field: city (text)
+********* Field: phone (text)
+********* Field: inquiry_type (text)
+********* Field: question (text)
+********* Field: g-recaptcha-response (text)
+********* Field: submit (submit)
+********* Button: Submit
+******** 340B Price Guide (/component/mailto/)
+********* Form: post /component/mailto/?task=send
+********** Field: emailto (email)
+********** Field: sender (text)
+********** Field: emailfrom (email)
+********** Field: subject (text)
+********** Field: g-recaptcha-response (text)
+********** Button: Send
+********** Button: Cancel
+******** Contact Us - 340B Price Guide (/contact-us)
+********* Form: post 
+********** Field: name (text)
+********** Field: email (text)
+********** Field: company (text)
+********** Field: address (text)
+********** Field: city (text)
+********** Field: phone (text)
+********** Field: inquiry_type (text)
+********** Field: question (text)
+********** Field: g-recaptcha-response (text)
+********** Field: submit (submit)
+********** Button: Submit
+***** Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide (/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza)
+***** Continued Brand Name Victoza Shortages - 340B Price Guide (/articles-news/138-continued-brand-name-victoza-shortages)
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+**** Articles and News - 340B Price Guide (/articles-news)
+***** Form: post /articles-news
+****** Field: searchword (text)
+****** Button: Go
+***** Form: post /articles-news
+****** Field: username (text)
+****** Field: password (password)
+****** Field: remember (checkbox)
+****** Field: Submit (submit)
+****** Field: Submit (submit)
+****** Button: Log in
+****** Button: Sign up / i’m New
+***** Eli Lilly Forced To Remove Restrictions - 340B Price Guide (/articles-news/119-eli-lilly-forced-to-remove-restrictions)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+****** Eli Lilly Forced To Remove Restrictions - 340B Price Guide (/articles-news/119-eli-lilly-forced-to-remove-restrictions)
+****** 340B Price Guide (/component/mailto/)
+******* Form: post /component/mailto/?task=send
+******** Field: emailto (email)
+******** Field: sender (text)
+******** Field: emailfrom (email)
+******** Field: subject (text)
+******** Field: g-recaptcha-response (text)
+******** Button: Send
+******** Button: Cancel
+***** Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide (/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+****** Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide (/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies)
+****** 340B Price Guide (/component/mailto/)
+******* Form: post /component/mailto/?task=send
+******** Field: emailto (email)
+******** Field: sender (text)
+******** Field: emailfrom (email)
+******** Field: subject (text)
+******** Field: g-recaptcha-response (text)
+******** Button: Send
+******** Button: Cancel
+***** GSK to Discontinue Branded Flovent - 340B Price Guide (/articles-news/121-gsk-to-discontinue-branded-flovent)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+****** GSK to Discontinue Branded Flovent - 340B Price Guide (/articles-news/121-gsk-to-discontinue-branded-flovent)
+****** 340B Price Guide (/component/mailto/)
+******* Form: post /component/mailto/?task=send
+******** Field: emailto (email)
+******** Field: sender (text)
+******** Field: emailfrom (email)
+******** Field: subject (text)
+******** Field: g-recaptcha-response (text)
+******** Button: Send
+******** Button: Cancel
+***** Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide (/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+****** Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide (/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law)
+****** 340B Price Guide (/component/mailto/)
+******* Form: post /component/mailto/?task=send
+******** Field: emailto (email)
+******** Field: sender (text)
+******** Field: emailfrom (email)
+******** Field: subject (text)
+******** Field: g-recaptcha-response (text)
+******** Button: Send
+******** Button: Cancel
+***** Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide (/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+***** Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide (/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source)
+***** Ongoing Shortages of Diabetes Medication - 340B Price Guide (/articles-news/127-ongoing-shortages-of-diabetes-medication)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+***** Ongoing Shortages of Diabetes Medication - 340B Price Guide (/articles-news/127-ongoing-shortages-of-diabetes-medication)
+***** Getting Started - 340B Price Guide - 340B Price Guide (/articles-news/128-getting-started-340b-price-guide)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+***** Getting Started - 340B Price Guide - 340B Price Guide (/articles-news/128-getting-started-340b-price-guide)
+***** 2024 340B Oversight Hearing - 340B Price Guide (/articles-news/130-340b-oversight-hearing)
+****** Form: post /articles-news
+******* Field: searchword (text)
+******* Button: Go
+****** Form: post /articles-news
+******* Field: username (text)
+******* Field: password (password)
+******* Field: remember (checkbox)
+******* Field: Submit (submit)
+******* Field: Submit (submit)
+******* Button: Log in
+******* Button: Sign up / i’m New
+***** 2024 340B Oversight Hearing - 340B Price Guide (/articles-news/130-340b-oversight-hearing)
+****** https://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a (/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a)
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+***** 340B Price Guide (/component/mailto/)
+****** Form: post /component/mailto/?task=send
+******* Field: emailto (email)
+******* Field: sender (text)
+******* Field: emailfrom (email)
+******* Field: subject (text)
+******* Field: g-recaptcha-response (text)
+******* Button: Send
+******* Button: Cancel
+**** 340B Price Guide (/component/mailto/)
+***** Form: post /component/mailto/?task=send
+****** Field: emailto (email)
+****** Field: sender (text)
+****** Field: emailfrom (email)
+****** Field: subject (text)
+****** Field: g-recaptcha-response (text)
+****** Button: Send
+****** Button: Cancel
+**** 340B Price Guide (/component/mailto/)
+***** Form: post /component/mailto/?task=send
+****** Field: emailto (email)
+****** Field: sender (text)
+****** Field: emailfrom (email)
+****** Field: subject (text)
+****** Field: g-recaptcha-response (text)
+****** Button: Send
+****** Button: Cancel
+**** 340B Price Guide (/component/mailto/)
+***** Form: post /component/mailto/?task=send
+****** Field: emailto (email)
+****** Field: sender (text)
+****** Field: emailfrom (email)
+****** Field: subject (text)
+****** Field: g-recaptcha-response (text)
+****** Button: Send
+****** Button: Cancel
+**** 340B Price Guide (/component/mailto/)
+***** Form: post /component/mailto/?task=send
+****** Field: emailto (email)
+****** Field: sender (text)
+****** Field: emailfrom (email)
+****** Field: subject (text)
+****** Field: g-recaptcha-response (text)
+****** Button: Send
+****** Button: Cancel
+*** Contact Us - 340B Price Guide (/index.php/contact-us)
+**** Form: post /contact-us
+***** Field: searchword (text)
+***** Button: Go
+**** Form: post /contact-us
+***** Field: username (text)
+***** Field: password (password)
+***** Field: remember (checkbox)
+***** Field: Submit (submit)
+***** Field: Submit (submit)
+***** Button: Log in
+***** Button: Sign up / i’m New
+**** Form: post 
+***** Field: name (text)
+***** Field: email (text)
 ***** Field: company (text)
-***** Field: subject (text)
-***** Field: your-message (text)
-***** Field: recaptcha_v3 (hidden)
-***** Field: unnamed (submit)
-***** Field: unnamed (hidden)
-***** Button: GET IN TOUCH
-*** Pakistan Story - Teamup Ventures (/pakistan-story)
-*** Bayfikr – a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis - Teamup Ventures (/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis)
-*** Clicky.pk attracts $700,000 in pre-series A funding round - Teamup Ventures (/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round)
-*** Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding - Teamup Ventures (/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding)
-*** Exclusive: Pakistani fintech SadaPay raises $7.2 million in country’s largest seed round - Teamup Ventures (/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round)
-*** For a successful startup ecosystem, Pakistan needs to learn to celebrate failure - Teamup Ventures (/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure)
-*** HumWell Comes To Rescue, With An All-Inclusive Telehealth Service - Teamup Ventures (/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service)
-*** Islamabad based startup called Shopsy introduces voice search for its customers - Teamup Ventures (/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers)
-*** Local startup is using AI to detect Covid-19 - Teamup Ventures (/scrapboard/local-startup-is-using-ai-to-detect-covid-19)
-*** NIC Welcomes It’s 10th Cohort of Startups - Teamup Ventures (/scrapboard/nic-welcomes-its-10th-cohort-of-startups)
-*** Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital - Teamup Ventures (/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital)
-*** Pakistan launches growth funds for startups - Teamup Ventures (/scrapboard/pakistan-launches-growth-funds-for-startups)
-*** Pakistani Edtech Startup ‘Edkasa’ raises $320,000 pre-seed by launching an exam prep app for students - Teamup Ventures (/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students)
-*** Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA - Teamup Ventures (/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea)
-*** Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown - Teamup Ventures (/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown)
-*** Pakistan’s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive - Teamup Ventures (/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive)
-*** Pakistan’s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network - Teamup Ventures (/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network)
-*** Pakistan’s Truck It In raises $1.5 million pre-seed for its trucking marketplace - Teamup Ventures (/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace)
-*** Startup challenges: the way out - Teamup Ventures (/scrapboard/startup-challenges-the-way-out)
-*** The era of VCs and boom of start-ups - Teamup Ventures (/scrapboard/the-era-of-vcs-and-boom-of-start-ups)
-*** To survive Pakistan’s COVID pandemic, grocery stores go online - Teamup Ventures (/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online)
-*** Terms & Conditions - Teamup Ventures (/terms-conditions)
+***** Field: address (text)
+***** Field: city (text)
+***** Field: phone (text)
+***** Field: inquiry_type (text)
+***** Field: question (text)
+***** Field: g-recaptcha-response (text)
+***** Field: submit (submit)
+***** Button: Submit
+**** 340B Price Guide (/component/mailto/)
+***** Form: post /component/mailto/?task=send
+****** Field: emailto (email)
+****** Field: sender (text)
+****** Field: emailfrom (email)
+****** Field: subject (text)
+****** Field: g-recaptcha-response (text)
+****** Button: Send
+****** Button: Cancel
+**** Contact Us - 340B Price Guide (/contact-us)
+***** Form: post 
+****** Field: name (text)
+****** Field: email (text)
+****** Field: company (text)
+****** Field: address (text)
+****** Field: city (text)
+****** Field: phone (text)
+****** Field: inquiry_type (text)
+****** Field: question (text)
+****** Field: g-recaptcha-response (text)
+****** Field: submit (submit)
+****** Button: Submit
 @endmindmap

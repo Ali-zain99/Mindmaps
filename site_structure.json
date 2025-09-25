@@ -1,466 +1,4545 @@
 {
-  "https://teamupventures.com/": {
-    "title": "Home - Teamup Ventures",
-    "url": "https://teamupventures.com/",
+  "https://www.340bpriceguide.net/": {
+    "title": "Home - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/",
     "parent": null,
     "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
-      "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
-      "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
-      "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
-      "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
-      "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
-      "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
-      "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
-      "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
-      "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
-      "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
-      "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
-      "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
-      "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
-      "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
-      "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
-      "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
-      "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
-      "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
-      "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
-      "https://teamupventures.com/terms-conditions"
+      "https://www.340bpriceguide.net/",
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "https://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
     ],
     "forms": [
       {
-        "action": "/#wpcf7-f203-p9-o1",
+        "action": "/",
         "method": "post",
         "inputs": [
           {
-            "name": "_wpcf7",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_version",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_locale",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_unit_tag",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_container_post",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_posted_data_hash",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "your-name",
+            "name": "searchword",
             "type": "text",
-            "placeholder": "YOUR NAME *"
-          },
-          {
-            "name": "your-email",
-            "type": "email",
-            "placeholder": "YOUR EMAIL *"
-          },
-          {
-            "name": "company",
-            "type": "text",
-            "placeholder": "COMPANY *"
-          },
-          {
-            "name": "subject",
-            "type": "text",
-            "placeholder": "SUBJECT *"
-          },
-          {
-            "name": "your-message",
-            "type": "text",
-            "placeholder": "YOUR MESSAGE *"
-          },
-          {
-            "name": "recaptcha_v3",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": null,
-            "type": "submit",
-            "placeholder": null
-          },
-          {
-            "name": null,
-            "type": "hidden",
             "placeholder": null
           }
         ],
         "buttons": [
-          "GET IN TOUCH"
+          "Go"
         ]
-      }
-    ]
-  },
-  "https://teamupventures.com/terms-conditions": {
-    "title": "Terms & Conditions - Teamup Ventures",
-    "url": "https://teamupventures.com/terms-conditions",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online": {
-    "title": "To survive Pakistan\u2019s COVID pandemic, grocery stores go online - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups": {
-    "title": "The era of VCs and boom of start-ups - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/startup-challenges-the-way-out": {
-    "title": "Startup challenges: the way out - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace": {
-    "title": "Pakistan\u2019s Truck It In raises $1.5 million pre-seed for its trucking marketplace - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network": {
-    "title": "Pakistan\u2019s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive": {
-    "title": "Pakistan\u2019s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown": {
-    "title": "Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea": {
-    "title": "Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students": {
-    "title": "Pakistani Edtech Startup \u2018Edkasa\u2019 raises $320,000 pre-seed by launching an exam prep app for students - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups": {
-    "title": "Pakistan launches growth funds for startups - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital": {
-    "title": "Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups": {
-    "title": "NIC Welcomes It\u2019s 10th Cohort of Startups - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19": {
-    "title": "Local startup is using AI to detect Covid-19 - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers": {
-    "title": "Islamabad based startup called Shopsy introduces voice search for its customers - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service": {
-    "title": "HumWell Comes To Rescue, With An All-Inclusive Telehealth Service - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure": {
-    "title": "For a successful startup ecosystem, Pakistan needs to learn to celebrate failure - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round": {
-    "title": "Exclusive: Pakistani fintech SadaPay raises $7.2 million in country\u2019s largest seed round - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding": {
-    "title": "Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round": {
-    "title": "Clicky.pk attracts $700,000 in pre-series A funding round - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis": {
-    "title": "Bayfikr \u2013 a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis - Teamup Ventures",
-    "url": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com/pakistan-story": {
-    "title": "Pakistan Story - Teamup Ventures",
-    "url": "https://teamupventures.com/pakistan-story",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": []
-  },
-  "https://teamupventures.com": {
-    "title": "Home - Teamup Ventures",
-    "url": "https://teamupventures.com",
-    "parent": "https://teamupventures.com/",
-    "links": [
-      "https://teamupventures.com",
-      "https://teamupventures.com/pakistan-story",
-      "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
-      "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
-      "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
-      "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
-      "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
-      "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
-      "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
-      "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
-      "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
-      "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
-      "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
-      "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
-      "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
-      "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
-      "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
-      "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
-      "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
-      "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
-      "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
-      "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
-      "https://teamupventures.com/terms-conditions"
-    ],
-    "forms": [
+      },
       {
-        "action": "/#wpcf7-f203-p9-o1",
+        "action": "/",
         "method": "post",
         "inputs": [
           {
-            "name": "_wpcf7",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_version",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_locale",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_unit_tag",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_container_post",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "_wpcf7_posted_data_hash",
-            "type": "hidden",
-            "placeholder": null
-          },
-          {
-            "name": "your-name",
+            "name": "username",
             "type": "text",
-            "placeholder": "YOUR NAME *"
-          },
-          {
-            "name": "your-email",
-            "type": "email",
-            "placeholder": "YOUR EMAIL *"
-          },
-          {
-            "name": "company",
-            "type": "text",
-            "placeholder": "COMPANY *"
-          },
-          {
-            "name": "subject",
-            "type": "text",
-            "placeholder": "SUBJECT *"
-          },
-          {
-            "name": "your-message",
-            "type": "text",
-            "placeholder": "YOUR MESSAGE *"
-          },
-          {
-            "name": "recaptcha_v3",
-            "type": "hidden",
             "placeholder": null
           },
           {
-            "name": null,
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
             "type": "submit",
             "placeholder": null
           },
           {
-            "name": null,
-            "type": "hidden",
+            "name": "Submit",
+            "type": "submit",
             "placeholder": null
           }
         ],
         "buttons": [
-          "GET IN TOUCH"
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      },
+      {
+        "action": null,
+        "method": "GET",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": "Enter a medication"
+          }
+        ],
+        "buttons": [
+          "FIND 340B PRICES"
         ]
       }
     ]
+  },
+  "https://www.340bpriceguide.net/index.php/contact-us": {
+    "title": "Contact Us - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/index.php/contact-us",
+    "parent": "https://www.340bpriceguide.net/",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/contact-us",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/contact-us",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "name",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "email",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "phone",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "inquiry_type",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "question",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Submit"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1": {
+    "title": "Contact Us - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+    "parent": "https://www.340bpriceguide.net/index.php/contact-us",
+    "links": [
+      "https://www.340bpriceguide.net/contact-us?tmpl=component&print=1"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "name",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "email",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "phone",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "inquiry_type",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "question",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Submit"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+    "parent": "https://www.340bpriceguide.net/index.php/contact-us",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/index.php/articles-news": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/index.php/articles-news",
+    "parent": "https://www.340bpriceguide.net/",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
+      "https://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
+      "https://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
+      "https://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news?start=12",
+      "https://www.340bpriceguide.net/articles-news?start=16",
+      "https://www.340bpriceguide.net/articles-news?start=20",
+      "https://www.340bpriceguide.net/articles-news?start=4",
+      "https://www.340bpriceguide.net/articles-news?start=8",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news?start=8": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news?start=8",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news?start=12",
+      "https://www.340bpriceguide.net/articles-news?start=16",
+      "https://www.340bpriceguide.net/articles-news?start=20",
+      "https://www.340bpriceguide.net/articles-news?start=4",
+      "https://www.340bpriceguide.net/articles-news?start=8",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default": {
+    "title": "2024 340B Oversight Hearing - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a": {
+    "title": "",
+    "url": "https://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a",
+    "parent": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+    "links": [],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing": {
+    "title": "2024 340B Oversight Hearing - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us",
+      "https://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default": {
+    "title": "Getting Started - 340B Price Guide - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide": {
+    "title": "Getting Started - 340B Price Guide - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default": {
+    "title": "Ongoing Shortages of Diabetes Medication - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication": {
+    "title": "Ongoing Shortages of Diabetes Medication - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default": {
+    "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source": {
+    "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law": {
+    "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+    "parent": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default": {
+    "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "https://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent": {
+    "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+    "parent": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default": {
+    "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "https://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies": {
+    "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+    "parent": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default": {
+    "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "https://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions": {
+    "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+    "parent": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default": {
+    "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "https://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news?start=4": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news?start=4",
+    "parent": "https://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "https://www.340bpriceguide.net/340b-search",
+      "https://www.340bpriceguide.net/about-us",
+      "https://www.340bpriceguide.net/articles-news",
+      "https://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "https://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "https://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "https://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "https://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+      "https://www.340bpriceguide.net/articles-news?start=12",
+      "https://www.340bpriceguide.net/articles-news?start=16",
+      "https://www.340bpriceguide.net/articles-news?start=20",
+      "https://www.340bpriceguide.net/articles-news?start=4",
+      "https://www.340bpriceguide.net/articles-news?start=8",
+      "https://www.340bpriceguide.net/client-login?view=registration",
+      "https://www.340bpriceguide.net/client-login?view=remind",
+      "https://www.340bpriceguide.net/client-login?view=reset",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "https://www.340bpriceguide.net/contact-us",
+      "https://www.340bpriceguide.net/index.php",
+      "https://www.340bpriceguide.net/index.php/about-us",
+      "https://www.340bpriceguide.net/index.php/articles-news",
+      "https://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8": {
+    "title": "340B Price Guide",
+    "url": "https://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default": {
+    "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "https://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default": {
+    "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "https://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default": {
+    "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
+    "url": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+    "parent": "https://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "http://www.340bpriceguide.net",
+      "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net": {
+    "title": "Home - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net",
+    "parent": "https://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+    "links": [
+      "http://www.340bpriceguide.net",
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "http://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      },
+      {
+        "action": null,
+        "method": "GET",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": "Enter a medication"
+          }
+        ],
+        "buttons": [
+          "FIND 340B PRICES"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/index.php/contact-us": {
+    "title": "Contact Us - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/index.php/contact-us",
+    "parent": "http://www.340bpriceguide.net",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/contact-us",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/contact-us",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      },
+      {
+        "action": "",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "name",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "email",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "phone",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "inquiry_type",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "question",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Submit"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/contact-us?tmpl=component&print=1": {
+    "title": "Contact Us - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/contact-us?tmpl=component&print=1",
+    "parent": "http://www.340bpriceguide.net/index.php/contact-us",
+    "links": [
+      "http://www.340bpriceguide.net/contact-us?tmpl=component&print=1"
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "name",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "email",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "city",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "phone",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "inquiry_type",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "question",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Submit"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=20a9a98bd3685953cd19aae8554484753618b4d3",
+    "parent": "http://www.340bpriceguide.net/index.php/contact-us",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/index.php/articles-news": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/index.php/articles-news",
+    "parent": "http://www.340bpriceguide.net",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "http://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations",
+      "http://www.340bpriceguide.net/articles-news/139-rite-aid-winds-down-340b-operations?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms",
+      "http://www.340bpriceguide.net/articles-news/140-communication-from-bphc-announcing-new-award-terms?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september",
+      "http://www.340bpriceguide.net/articles-news/141-the-freestyle-libre-2-and-freestyle-libre-3-sensors-will-be-discontinued-in-september?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news?start=12",
+      "http://www.340bpriceguide.net/articles-news?start=16",
+      "http://www.340bpriceguide.net/articles-news?start=20",
+      "http://www.340bpriceguide.net/articles-news?start=4",
+      "http://www.340bpriceguide.net/articles-news?start=8",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab96c5c8edc687a50a26ba37e6a11e02239ab989",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=749ec61a90627df993a54dc3aba86fd806f590a8",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=48f36ca13f26e4d5730c8eb5ff22f26733881327",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=163243bbbb52af540e66579c2ba388e97194a64f",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news?start=8": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news?start=8",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news?start=12",
+      "http://www.340bpriceguide.net/articles-news?start=16",
+      "http://www.340bpriceguide.net/articles-news?start=20",
+      "http://www.340bpriceguide.net/articles-news?start=4",
+      "http://www.340bpriceguide.net/articles-news?start=8",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default": {
+    "title": "2024 340B Oversight Hearing - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a": {
+    "title": "",
+    "url": "http://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a",
+    "parent": "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+    "links": [],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing": {
+    "title": "2024 340B Oversight Hearing - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=49006d072f9531acbe035124552455e2b1a1a30a",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us",
+      "http://www.340bpriceguide.net/media/webinars/20240604_Hearing_Oversight_Of_340B_Drug_Pricing_Program-Full_Audio.m4a"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default": {
+    "title": "Getting Started - 340B Price Guide - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide": {
+    "title": "Getting Started - 340B Price Guide - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3b30f548365d46a780f79d4755682f42659b1a3",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default": {
+    "title": "Ongoing Shortages of Diabetes Medication - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication": {
+    "title": "Ongoing Shortages of Diabetes Medication - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/126-weekly-product-shortages",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4923d1491b1a1668ebb212502df565b78f904b0c",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default": {
+    "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source": {
+    "title": "Basaglar no longer covered through Pacific Source and Trillium. - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=2690b7203997ab1fa010c0268de0267a0fc45d14",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law": {
+    "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d3cd012332a50fc091fe3818515335d8956b40ec",
+    "parent": "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default": {
+    "title": "Health Centers Move to Dismiss Challenge to Contract Pharmacy Law - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law",
+      "http://www.340bpriceguide.net/articles-news/123-health-centers-move-to-dismiss-challenge-to-contract-pharmacy-law?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent": {
+    "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=c9e7e82e0a5022abb3582248fb161da2cabed3b8",
+    "parent": "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default": {
+    "title": "GSK to Discontinue Branded Flovent - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent",
+      "http://www.340bpriceguide.net/articles-news/121-gsk-to-discontinue-branded-flovent?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies": {
+    "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=9ae6bc85da6dd0b1a38f4d6a9ab09bbb9b897912",
+    "parent": "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default": {
+    "title": "Rite Aid Corp. Announces Closure of Oregon Pharmacies - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies",
+      "http://www.340bpriceguide.net/articles-news/120-rite-aid-corp-announces-closure-of-oregon-pharmacies?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions": {
+    "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=8",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=790f638bb5f83ccd2f163617d60bba369c2619fc",
+    "parent": "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default": {
+    "title": "Eli Lilly Forced To Remove Restrictions - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions",
+      "http://www.340bpriceguide.net/articles-news/119-eli-lilly-forced-to-remove-restrictions?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news?start=4": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news?start=4",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/125-basaglar-no-longer-be-covered-through-pacific-source",
+      "http://www.340bpriceguide.net/articles-news/127-ongoing-shortages-of-diabetes-medication",
+      "http://www.340bpriceguide.net/articles-news/128-getting-started-340b-price-guide",
+      "http://www.340bpriceguide.net/articles-news/130-340b-oversight-hearing",
+      "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news?start=12",
+      "http://www.340bpriceguide.net/articles-news?start=16",
+      "http://www.340bpriceguide.net/articles-news?start=20",
+      "http://www.340bpriceguide.net/articles-news?start=4",
+      "http://www.340bpriceguide.net/articles-news?start=8",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=fa7e40f3ce973eb3572d31af2f8304e9ceff93f5",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ece867b3d7c97807ca6ebc693fad9a8eeadbd216",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=945eb48d8c09113ebfd391549af19c0556071eb4",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8f381eef40d9e4c31a42f7876c625ec85e8fd8f8",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default": {
+    "title": "Continued Brand Name Victoza Shortages - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages",
+      "http://www.340bpriceguide.net/articles-news/138-continued-brand-name-victoza-shortages?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default": {
+    "title": "Rite Aid halts dispensing GLP1 agonists (Ozempic/Trulicity/Victoza) - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza",
+      "http://www.340bpriceguide.net/articles-news/134-rite-aid-is-halts-dispensing-glp1-agonists-ozempic-trulicity-victoza?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default": {
+    "title": "Weekly Update Episode 1: President Trump Healthcare Executive Order - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "http://www.340bpriceguide.net",
+      "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order",
+      "http://www.340bpriceguide.net/articles-news/133-weekly-update-episode-1-president-trump-healthcare-executive-order?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default": {
+    "title": "Mobile App - How to Use - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=4",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use",
+      "http://www.340bpriceguide.net/articles-news/132-mobile-app-how-to-use?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news?start=20": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news?start=20",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news?start=12",
+      "http://www.340bpriceguide.net/articles-news?start=16",
+      "http://www.340bpriceguide.net/articles-news?start=20",
+      "http://www.340bpriceguide.net/articles-news?start=4",
+      "http://www.340bpriceguide.net/articles-news?start=8",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=20",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default": {
+    "title": "340B Registration Periods - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=20",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/13-340b-registration-period": {
+    "title": "340B Registration Periods - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=20",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=f6d97ad045fa462a66324badab88bdacde0fd145",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news?start=16": {
+    "title": "Articles and News - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news?start=16",
+    "parent": "http://www.340bpriceguide.net/index.php/articles-news",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition",
+      "http://www.340bpriceguide.net/articles-news/114-judge-strikes-down-hrsa-340b-patient-definition?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/13-340b-registration-period",
+      "http://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "http://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/articles-news?start=12",
+      "http://www.340bpriceguide.net/articles-news?start=16",
+      "http://www.340bpriceguide.net/articles-news?start=20",
+      "http://www.340bpriceguide.net/articles-news?start=4",
+      "http://www.340bpriceguide.net/articles-news?start=8",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=d6b295f28f2c9917b397f4596d962e612889c57b",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=ab1cf290f4fbfdf2480bda9bf7edc7921efa56d7",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4": {
+    "title": "340B Price Guide",
+    "url": "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=4b26163278ae38a98ac9d25869d66558cf9e13e4",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [],
+    "forms": [
+      {
+        "action": "/component/mailto/?task=send",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "emailto",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "sender",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "emailfrom",
+            "type": "email",
+            "placeholder": null
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Send",
+          "Cancel"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default": {
+    "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available": {
+    "title": "Medications to Treat Obesity: What is Available? - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [
+      "http://www.340bpriceguide.net/340b-search",
+      "http://www.340bpriceguide.net/about-us",
+      "http://www.340bpriceguide.net/articles-news",
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available",
+      "http://www.340bpriceguide.net/articles-news/70-medications-to-treat-obesity-what-is-available?tmpl=component&print=1&layout=default",
+      "http://www.340bpriceguide.net/client-login?view=registration",
+      "http://www.340bpriceguide.net/client-login?view=remind",
+      "http://www.340bpriceguide.net/client-login?view=reset",
+      "http://www.340bpriceguide.net/component/mailto/?tmpl=component&template=rt_chapelco_child&link=8b6dc2ee09accd29f57e1b9f0996c7147f6dea45",
+      "http://www.340bpriceguide.net/contact-us",
+      "http://www.340bpriceguide.net/index.php",
+      "http://www.340bpriceguide.net/index.php/about-us",
+      "http://www.340bpriceguide.net/index.php/articles-news",
+      "http://www.340bpriceguide.net/index.php/contact-us"
+    ],
+    "forms": [
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "searchword",
+            "type": "text",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Go"
+        ]
+      },
+      {
+        "action": "/articles-news",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "username",
+            "type": "text",
+            "placeholder": null
+          },
+          {
+            "name": "password",
+            "type": "password",
+            "placeholder": null
+          },
+          {
+            "name": "remember",
+            "type": "checkbox",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": "Submit",
+            "type": "submit",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "Log in",
+          "Sign up / i\u2019m New"
+        ]
+      }
+    ]
+  },
+  "http://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default": {
+    "title": "What is 340B? - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/50-what-is-340b",
+      "http://www.340bpriceguide.net/articles-news/50-what-is-340b?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
+  },
+  "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default": {
+    "title": "Novo Nordisk will discontinue Levemir - 340B Price Guide",
+    "url": "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default",
+    "parent": "http://www.340bpriceguide.net/articles-news?start=16",
+    "links": [
+      "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir",
+      "http://www.340bpriceguide.net/articles-news/118-novo-nordisk-will-discontinue-levemir?tmpl=component&print=1&layout=default"
+    ],
+    "forms": []
   }
 }

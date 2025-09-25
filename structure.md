@@ -1,0 +1,159 @@
+# Site Structure
+## Home - Teamup Ventures
+- URL: https://teamupventures.com
+- Turning ventures into fortunes
+  - The Pakistan Story
+  - our team
+  - Scrapboard
+  - contact & careers
+    - Great Things Happen When You TeamUp
+      - Zouhair A. Khaliq
+      - Zouhair A. Khaliq
+      - Danyaal Z. A. Khaliq
+      - Danyaal Z. A. Khaliq
+      - Ahmed Uzair
+      - Ahmed Uzair
+      - DUBAI OFFICE
+      - Other Contact
+        - Founder & General Partner
+        - Founder & Investor
+        - Legal Advisor
+
+## Pakistan Story - Teamup Ventures
+- URL: https://teamupventures.com/pakistan-story
+  - PAKISTAN – A MACRO VIEW
+  - DEMOGRAPHIC FACTS
+  - Teledensity
+  - 3g/4g Subscribers
+    - PAKISTAN THE STARTUP ECOSYSTEM
+      - KEY FACTS ABOUT PAKISTAN’S STARTUP ECOSYSTEM
+      - PAKISTAN – RAPIDLY GROWING DIGITAL INFRASTRUCTURE
+      - Exponential Growth in Connectivity
+      - DUBAI OFFICE
+      - Other Contact
+
+## Bayfikr – a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis
+- Bayfikr – a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis
+      - DUBAI OFFICE
+      - Other Contact
+
+## Clicky.pk attracts $700,000 in pre-series A funding round - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round
+- Clicky.pk attracts $700,000 in pre-series A funding round
+      - DUBAI OFFICE
+      - Other Contact
+
+## Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding
+- Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding
+      - DUBAI OFFICE
+      - Other Contact
+
+## Exclusive: Pakistani fintech SadaPay raises $7.2 million in country’s largest seed round - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round
+- Exclusive: Pakistani fintech SadaPay raises $7.2 million in country’s largest seed round
+      - DUBAI OFFICE
+      - Other Contact
+
+## For a successful startup ecosystem, Pakistan needs to learn to celebrate failure - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure
+- For a successful startup ecosystem, Pakistan needs to learn to celebrate failure
+      - DUBAI OFFICE
+      - Other Contact
+
+## HumWell Comes To Rescue, With An All-Inclusive Telehealth Service - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service
+- HumWell Comes To Rescue, With An All-Inclusive Telehealth Service
+      - DUBAI OFFICE
+      - Other Contact
+
+## Islamabad based startup called Shopsy introduces voice search for its customers - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers
+- Islamabad based startup called Shopsy introduces voice search for its customers
+      - DUBAI OFFICE
+      - Other Contact
+
+## Local startup is using AI to detect Covid-19 - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19
+- Local startup is using AI to detect Covid-19
+      - DUBAI OFFICE
+      - Other Contact
+
+## NIC Welcomes It’s 10th Cohort of Startups - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups
+- NIC Welcomes It’s 10th Cohort of Startups
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital
+- Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistan launches growth funds for startups - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups
+- Pakistan launches growth funds for startups
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistani Edtech Startup ‘Edkasa’ raises $320,000 pre-seed by launching an exam prep app for students - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students
+- Pakistani Edtech Startup ‘Edkasa’ raises $320,000 pre-seed by launching an exam prep app for students
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea
+- Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown
+- Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistan’s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive
+- Pakistan’s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistan’s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network
+- Pakistan’s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network
+      - DUBAI OFFICE
+      - Other Contact
+
+## Pakistan’s Truck It In raises $1.5 million pre-seed for its trucking marketplace - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace
+- Pakistan’s Truck It In raises $1.5 million pre-seed for its trucking marketplace
+      - DUBAI OFFICE
+      - Other Contact
+
+## Startup challenges: the way out - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/startup-challenges-the-way-out
+- Startup challenges: the way out
+      - DUBAI OFFICE
+      - Other Contact
+
+## The era of VCs and boom of start-ups - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups
+- The era of VCs and boom of start-ups
+      - DUBAI OFFICE
+      - Other Contact
+
+## To survive Pakistan’s COVID pandemic, grocery stores go online - Teamup Ventures
+- URL: https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online
+- To survive Pakistan’s COVID pandemic, grocery stores go online
+      - DUBAI OFFICE
+      - Other Contact
+
+## Terms & Conditions - Teamup Ventures
+- URL: https://teamupventures.com/terms-conditions
+  - Terms & Conditions
+      - DUBAI OFFICE
+      - Other Contact

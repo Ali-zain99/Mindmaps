@@ -1,0 +1,466 @@
+{
+  "https://teamupventures.com/": {
+    "title": "Home - Teamup Ventures",
+    "url": "https://teamupventures.com/",
+    "parent": null,
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+      "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+      "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+      "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+      "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+      "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+      "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+      "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+      "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+      "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+      "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+      "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+      "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+      "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f203-p9-o1",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "placeholder": "YOUR NAME *"
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "placeholder": "YOUR EMAIL *"
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": "COMPANY *"
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": "SUBJECT *"
+          },
+          {
+            "name": "your-message",
+            "type": "text",
+            "placeholder": "YOUR MESSAGE *"
+          },
+          {
+            "name": "recaptcha_v3",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": null,
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": null,
+            "type": "hidden",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "GET IN TOUCH"
+        ]
+      }
+    ]
+  },
+  "https://teamupventures.com/terms-conditions": {
+    "title": "Terms & Conditions - Teamup Ventures",
+    "url": "https://teamupventures.com/terms-conditions",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online": {
+    "title": "To survive Pakistan\u2019s COVID pandemic, grocery stores go online - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups": {
+    "title": "The era of VCs and boom of start-ups - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/startup-challenges-the-way-out": {
+    "title": "Startup challenges: the way out - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace": {
+    "title": "Pakistan\u2019s Truck It In raises $1.5 million pre-seed for its trucking marketplace - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network": {
+    "title": "Pakistan\u2019s Sehat Kahani raises $1 million Pre-Series A to grow its telemedicine network - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive": {
+    "title": "Pakistan\u2019s First E-commerce Marketing tool launched by Pakistani Entrepreneur to make E-commerce more Competitive - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown": {
+    "title": "Pakistani Startups Break Records in 2020 Despite Global Economic Slowdown - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea": {
+    "title": "Pakistani fintech startup called PayPro receives a grant of Rs 7.4 million from USAID and SMEA - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students": {
+    "title": "Pakistani Edtech Startup \u2018Edkasa\u2019 raises $320,000 pre-seed by launching an exam prep app for students - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups": {
+    "title": "Pakistan launches growth funds for startups - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital": {
+    "title": "Pak tech startup Remotebase raises $1.4 million led by Indus Valley Capital - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups": {
+    "title": "NIC Welcomes It\u2019s 10th Cohort of Startups - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19": {
+    "title": "Local startup is using AI to detect Covid-19 - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers": {
+    "title": "Islamabad based startup called Shopsy introduces voice search for its customers - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service": {
+    "title": "HumWell Comes To Rescue, With An All-Inclusive Telehealth Service - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure": {
+    "title": "For a successful startup ecosystem, Pakistan needs to learn to celebrate failure - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round": {
+    "title": "Exclusive: Pakistani fintech SadaPay raises $7.2 million in country\u2019s largest seed round - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding": {
+    "title": "Despite a pandemic, Pakistani startups had their best year yet with over $65 million in funding - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round": {
+    "title": "Clicky.pk attracts $700,000 in pre-series A funding round - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis": {
+    "title": "Bayfikr \u2013 a User-Friendly Fin-Tech app, Making Payments in Pakistan Easier for Overseas Pakistanis - Teamup Ventures",
+    "url": "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com/pakistan-story": {
+    "title": "Pakistan Story - Teamup Ventures",
+    "url": "https://teamupventures.com/pakistan-story",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": []
+  },
+  "https://teamupventures.com": {
+    "title": "Home - Teamup Ventures",
+    "url": "https://teamupventures.com",
+    "parent": "https://teamupventures.com/",
+    "links": [
+      "https://teamupventures.com",
+      "https://teamupventures.com/pakistan-story",
+      "https://teamupventures.com/scrapboard/bayfikr-a-user-friendly-fin-tech-app-making-payments-in-pakistan-easier-for-overseas-pakistanis",
+      "https://teamupventures.com/scrapboard/clicky-pk-attracts-700000-in-pre-series-a-funding-round",
+      "https://teamupventures.com/scrapboard/despite-a-pandemic-pakistani-startups-had-their-best-year-yet-with-over-65-million-in-funding",
+      "https://teamupventures.com/scrapboard/exclusive-pakistani-fintech-sadapay-raises-7-2-million-in-countrys-largest-seed-round",
+      "https://teamupventures.com/scrapboard/for-a-successful-startup-ecosystem-pakistan-needs-to-learn-to-celebrate-failure",
+      "https://teamupventures.com/scrapboard/humwell-comes-to-rescue-with-an-all-inclusive-telehealth-service",
+      "https://teamupventures.com/scrapboard/islamabad-based-startup-called-shopsy-introduces-voice-search-for-its-customers",
+      "https://teamupventures.com/scrapboard/local-startup-is-using-ai-to-detect-covid-19",
+      "https://teamupventures.com/scrapboard/nic-welcomes-its-10th-cohort-of-startups",
+      "https://teamupventures.com/scrapboard/pak-tech-startup-remotebase-raises-1-4-million-led-by-indus-valley-capital",
+      "https://teamupventures.com/scrapboard/pakistan-launches-growth-funds-for-startups",
+      "https://teamupventures.com/scrapboard/pakistani-edtech-startup-edkasa-raises-320000-pre-seed-by-launching-an-exam-prep-app-for-students",
+      "https://teamupventures.com/scrapboard/pakistani-fintech-startup-called-paypro-receives-a-grant-of-rs-7-4-million-from-usaid-and-smea",
+      "https://teamupventures.com/scrapboard/pakistani-startups-break-records-in-2020-despite-global-economic-slowdown",
+      "https://teamupventures.com/scrapboard/pakistans-first-e-commerce-marketing-tool-launched-by-pakistani-entrepreneur-to-make-e-commerce-more-competitive",
+      "https://teamupventures.com/scrapboard/pakistans-sehat-kahani-raises-1-million-pre-series-a-to-grow-its-telemedicine-network",
+      "https://teamupventures.com/scrapboard/pakistans-truck-it-in-raises-1-5-million-pre-seed-for-its-trucking-marketplace",
+      "https://teamupventures.com/scrapboard/startup-challenges-the-way-out",
+      "https://teamupventures.com/scrapboard/the-era-of-vcs-and-boom-of-start-ups",
+      "https://teamupventures.com/scrapboard/to-survive-pakistans-covid-pandemic-grocery-stores-go-online",
+      "https://teamupventures.com/terms-conditions"
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f203-p9-o1",
+        "method": "post",
+        "inputs": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "placeholder": "YOUR NAME *"
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "placeholder": "YOUR EMAIL *"
+          },
+          {
+            "name": "company",
+            "type": "text",
+            "placeholder": "COMPANY *"
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "placeholder": "SUBJECT *"
+          },
+          {
+            "name": "your-message",
+            "type": "text",
+            "placeholder": "YOUR MESSAGE *"
+          },
+          {
+            "name": "recaptcha_v3",
+            "type": "hidden",
+            "placeholder": null
+          },
+          {
+            "name": null,
+            "type": "submit",
+            "placeholder": null
+          },
+          {
+            "name": null,
+            "type": "hidden",
+            "placeholder": null
+          }
+        ],
+        "buttons": [
+          "GET IN TOUCH"
+        ]
+      }
+    ]
+  }
+}
